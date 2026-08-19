@@ -1,4 +1,4 @@
-# Som Satwik Deo — Portfolio
+# Som Satwik Deo  Portfolio
 
 A Persona 5 menu-inspired portfolio, structured as Model–View–Controller.
 
@@ -26,7 +26,7 @@ A Persona 5 menu-inspired portfolio, structured as Model–View–Controller.
     └── projects/         Card thumbnails (auto-matched to project names)
 ```
 
-Missing images hide themselves — no broken icons.
+Missing images hide themselves  no broken icons.
 
 ## Editing content
 
